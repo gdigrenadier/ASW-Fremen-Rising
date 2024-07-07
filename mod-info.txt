@@ -3,7 +3,4 @@
 title: ASW: Fremen Rising (1.0)
 description: An expansion for Arrakis: Spice Wars, which adds the Fremen, an infantry based faction built to swarm and destroy. \n Made by GDI Grenadier.
 
-tags: asw, addon
-
-#Hyasabaru's Discord Server: https://discord.gg/jj4YVY9spW
-#My Discord Tag: gdigrenadier
+tags: asw, addon  
